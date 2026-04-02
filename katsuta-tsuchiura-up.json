@@ -1,0 +1,227 @@
+[
+  {
+    "segmentId": "katsuta_mito",
+    "fromStation": "勝田",
+    "toStation": "水戸",
+    "e531": [105, 105, 125, 90],
+    "e657": [125, 125, 130, 95],
+    "note": "",
+    "image": "data/images/勝田水戸１.jpg"
+  },
+  {
+    "segmentId": "mito_akatsuka",
+    "fromStation": "水戸",
+    "toStation": "赤塚",
+    "e531": [105, 90, 105],
+    "e657": [125, 100, 125, 130],
+    "note": "",
+    "image": "data/images/水戸赤塚１.jpg"
+  },
+  {
+    "segmentId": "akatsuka_uchihara",
+    "fromStation": "赤塚",
+    "toStation": "内原",
+    "e531": [125, 105],
+    "e657": [125, 125, 120],
+    "note": "",
+    "image": "data/images/赤塚内原１.jpg"
+  },
+  {
+    "segmentId": "uchihara_tomobe",
+    "fromStation": "内原",
+    "toStation": "友部",
+    "e531": [105, 110, 110],
+    "e657": [125, 130, 130],
+    "note": "",
+    "image": "data/images/内原友部１.jpg"
+  },
+  {
+    "segmentId": "tomobe_iwama",
+    "fromStation": "友部",
+    "toStation": "岩間",
+    "e531": [80, 95, 115, 105, 90],
+    "e657": [80, 95, 130, 115, 100],
+    "note": "",
+    "image": "data/images/友部岩間１.jpg"
+  },
+  {
+    "segmentId": "iwama_hatori",
+    "fromStation": "岩間",
+    "toStation": "羽鳥",
+    "e531": [95, 100],
+    "e657": [110, 100],
+    "note": "",
+    "image": "data/images/岩間羽鳥１.jpg"
+  },
+  {
+    "segmentId": "hatori_ishioka",
+    "fromStation": "羽鳥",
+    "toStation": "石岡",
+    "e531": [105, 105, 100],
+    "e657": [125, 125, 110],
+    "note": "",
+    "image": "data/images/羽鳥石岡１.jpg"
+  },
+  {
+    "segmentId": "ishioka_takahama",
+    "fromStation": "石岡",
+    "toStation": "高浜",
+    "e531": [105, 105, 100],
+    "e657": [105, 125, 120],
+    "note": "",
+    "image": "data/images/石岡高浜１.jpg"
+  },
+  {
+    "segmentId": "takahama_kandatsu",
+    "fromStation": "高浜",
+    "toStation": "神立",
+    "e531": [95, 110],
+    "e657": [110, 130],
+    "note": "",
+    "image": "data/images/高浜神立１.jpg"
+  },
+  {
+    "segmentId": "kandatsu_tsuchiura",
+    "fromStation": "神立",
+    "toStation": "土浦",
+    "e531": [125, 95, 105, 115, 100],
+    "e657": [130, 110, 125, 115, 100],
+    "note": "",
+    "image": "data/images/神立土浦１.jpg"
+  },
+  {
+    "segmentId": "tsuchiura_arakawaoki",
+    "fromStation": "土浦",
+    "toStation": "荒川沖",
+    "e531": [95, 100, 95, 105, 115],
+    "e657": [105, 120, 110, 125, 130],
+    "note": "",
+    "image": "data/images/土浦荒川沖１.jpg"
+  },
+  {
+    "segmentId": "arakawaoki_hitachinoushiku",
+    "fromStation": "荒川沖",
+    "toStation": "ひたち野うしく",
+    "e531": [110],
+    "e657": [120],
+    "note": "",
+    "image": "data/images/荒川沖ひたち野うしく１.jpg"
+  },
+  {
+    "segmentId": "hitachinoushiku_ushiku",
+    "fromStation": "ひたち野うしく",
+    "toStation": "牛久",
+    "e531": [110],
+    "e657": [130],
+    "note": "",
+    "image": "data/images/ひたち野うしく牛久１.jpg"
+  },
+  {
+    "segmentId": "ushiku_ryugasakishi",
+    "fromStation": "牛久",
+    "toStation": "龍ヶ崎市",
+    "e531": [110, 100],
+    "e657": [125, 105],
+    "note": "",
+    "image": "data/images/牛久龍ヶ崎市１.jpg"
+  },
+  {
+    "segmentId": "ryugasakishi_fujishiro",
+    "fromStation": "龍ヶ崎市",
+    "toStation": "藤代",
+    "e531": [90, 110, 90],
+    "e657": [100, 130, 100],
+    "note": "",
+    "image": "data/images/龍ヶ崎市藤代１.jpg"
+  },
+  {
+    "segmentId": "fujishiro_toride",
+    "fromStation": "藤代",
+    "toStation": "取手",
+    "e531": [115, 115, 95, 80],
+    "e657": [130, 130, 105, 90],
+    "note": "",
+    "image": "data/images/藤代取手１.jpg"
+  },
+  {
+    "segmentId": "toride_tennodai",
+    "fromStation": "取手",
+    "toStation": "天王台",
+    "e531": [95],
+    "e657": [110],
+    "note": "",
+    "image": "data/images/取手天王台１.jpg"
+  },
+  {
+    "segmentId": "tennodai_abiko",
+    "fromStation": "天王台",
+    "toStation": "我孫子",
+    "e531": [],
+    "e657": [],
+    "note": "",
+    "image": "data/images/天王台我孫子１.jpg"
+  },
+  {
+    "segmentId": "abiko_kashiwa",
+    "fromStation": "我孫子",
+    "toStation": "柏",
+    "e531": [105, 95],
+    "e657": [125, 95],
+    "note": "",
+    "image": "data/images/我孫子柏１.jpg"
+  },
+  {
+    "segmentId": "kashiwa_matsudo",
+    "fromStation": "柏",
+    "toStation": "松戸",
+    "e531": [120, 105, 105],
+    "e657": [130, 125, 125],
+    "note": "",
+    "image": "data/images/柏松戸１.jpg"
+  },
+  {
+    "segmentId": "matsudo_kitasenju",
+    "fromStation": "松戸",
+    "toStation": "北千住",
+    "e531": [105, 105, 110, 90, 95, 105, 105, 90, 95, 115, 105],
+    "e657": [125, 125, 120, 90, 110, 120, 125, 100, 110, 115, 105],
+    "note": "",
+    "image": "data/images/松戸北千住１.jpg"
+  },
+  {
+    "segmentId": "kitasenju_minamisenju",
+    "fromStation": "北千住",
+    "toStation": "南千住",
+    "e531": [105, 105],
+    "e657": [105, 105],
+    "note": "",
+    "image": "data/images/北千住南千住１.jpg"
+  },
+  {
+    "segmentId": "minamisenju_mikawashima",
+    "fromStation": "南千住",
+    "toStation": "三河島",
+    "e531": [70, 95],
+    "e657": [70, 95],
+    "note": "",
+    "image": "data/images/南千住三河島１.jpg"
+  },
+  {
+    "segmentId": "mikawashima_nippori",
+    "fromStation": "三河島",
+    "toStation": "日暮里",
+    "e531": [80, 65, 85],
+    "e657": [80, 65, 85],
+    "note": "",
+    "image": "data/images/三河島日暮里１.jpg"
+  },
+  {
+    "segmentId": "nippori_ueno",
+    "fromStation": "日暮里",
+    "toStation": "上野",
+    "e531": [70, 55, 50],
+    "e657": [70, 55, 50],
+    "note": "その後の制限は番線による",
+    "image": "data/images/日暮里上野１.jpg"
+  }
+]

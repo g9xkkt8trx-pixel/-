@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>制限速度暗記アプリ</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <div class="container">
+    <h1>制限速度暗記アプリ</h1>
+    <div id="status">読み込み中...</div>
+
+    <div class="card">
+      <div id="segment-name">区間</div>
+      <div id="counter">0 / 0</div>
+
+      <h2 id="question">問題を表示します</h2>
+
+      <button onclick="showAnswer()">答えを見る</button>
+
+      <div id="answer" style="display:none;"></div>
+
+      <div class="button-group">
+        <button onclick="prevQuestion()">戻る</button>
+        <button onclick="nextQuestion()">次へ</button>
+      </div>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
