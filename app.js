@@ -5,7 +5,7 @@ const data = [
     e531: [105, 105, 125, 90],
     e657: [125, 125, 130, 95],
     note: "",
-    image: "勝田水戸1.jpg"
+    image: "勝田水戸１.jpg"
   },
   {
     fromStation: "水戸",
@@ -13,7 +13,7 @@ const data = [
     e531: [105, 90, 105],
     e657: [125, 100, 125, 130],
     note: "",
-    image: "水戸赤塚1.jpg"
+    image: "水戸赤塚１.jpg"
   },
   {
     fromStation: "赤塚",
@@ -21,7 +21,7 @@ const data = [
     e531: [125, 105],
     e657: [125, 125, 120],
     note: "",
-    image: "赤塚内原1.jpg"
+    image: "赤塚内原１.jpg"
   },
   {
     fromStation: "内原",
